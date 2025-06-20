@@ -79,10 +79,3 @@ Career Project/
 - View your personalized career matches and roadmap.
 - Track your progress on the dashboard.
 
-## Screenshots
-
-_Add screenshots of the main pages here (dashboard, tests, results, roadmap, etc.)_
-
-## License
-
-MIT
